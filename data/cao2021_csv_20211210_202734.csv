@@ -1,8 +1,10 @@
+code,title,pointsR1,pointsR2
 AL801,Software Design for Virtual Reality and Gaming,300,
 AL802,Software Design in Artificial Intelligence for Clo,313,
 AL803,Software Design for Mobile Apps and Connected Devi,350,
 AL805,Computer Engineering for Network Infrastructure,321,
 AL810,Quantity Surveying,328,
+AL811,Civil Engineering,,
 AL820,Mechanical and Polymer Engineering,327,
 AL830,General Nursing,451*,444
 AL832,Mental Health Nursing,440*,431
@@ -58,11 +60,11 @@ CW748,Early Childhood Education and Care,290,
 CW758,Professional Social Care Practice,360,358
 CW808,Media and Public Relations,247,
 CW848,Digital Marketing with Analytics,269,
-CW858,Sports Management and Coaching (options,portfolio,#700,
+CW858,Sports Management and Coaching (options  portfolio,#700,
 CW908,Business (options),272,
 CW938,Business with Law,270,
 CW948,Accounting,319,
-PC405,Social,Political and Community Studies,263,235
+PC405,Social  Political and Community Studies,263,235
 PC410,Arts and Humanities (fulfils Teaching Council requ,262,230
 PC411,English and History (fulfils Teaching Council requ,243,224
 CR105,Chemical and Biopharmaceutical Engineering,443,
@@ -76,7 +78,7 @@ CR121,Music at CIT Cork School of Music,#904,#904
 CR125,Popular Music at CIT Cork School of Music,#1028,
 CR130,Musical Theatre at CIT Cork School of Music,#525,
 CR150,Business Information Systems,350,
-CR210,Contemporary Applied Art (Ceramics,Glass,Textile,#450,
+CR210,Contemporary Applied Art (Ceramics  Glass  Textile,#450,
 CR220,Fine Art at CIT Crawford College of Art and Design,#400,
 CR225,Photography with New Media at CIT Crawford College,#435,
 CR305,Physical Sciences (Common Entry),260,
@@ -119,6 +121,8 @@ CK110,World Languages,488,
 CK111,Early Years and Childhood Studies,409,403
 CK112,Theatre and Performative Practices - 3 or 4 years,#371,
 CK113,Criminology - 3 years or 4 years (International Pa,464,463
+CK114,Social Science (Youth and Community Work),#,
+CK115,Social Work - Mature Applicants only,,
 CK118,Digital Humanities and IT - 3 or 4 years (Work Exp,347,339
 CK120,Applied Psychology,544,543*
 CK121,Psychology and Computing - 3 or 4 years (Work Expe,499,488
@@ -139,13 +143,13 @@ CK211,Commerce (International) with Chinese Studies,385,
 CK212,Economics (through Transformational Learning) 3 or,445,444
 CK213,Food Marketing and Entrepreneurship,466,
 CK214,International Development,332,
-CK301,Law (Pathways) -,3 or 4 years,533,532*
+CK301,Law (Pathways) -  3 or 4 years,533,532*
 CK302,Law and French,545,
 CK304,Law and Irish,588,
 CK307,Law and Business,589*,589*
 CK401,Computer Science,503,495
 CK402,Biological and Chemical Sciences,555*,555
-CK404,Biological,Earth and Environmental Sciences,500,495*
+CK404,Biological  Earth and Environmental Sciences,500,495*
 CK405,Genetics,543,
 CK406,Chemical Sciences,532,
 CK407,Mathematical Sciences,566,
@@ -169,6 +173,7 @@ CK712,Children`s and General Nursing (Integrated),565,
 CK720,Mental Health Nursing,455,452
 CK730,Intellectual Disability Nursing,431,
 CK740,Midwifery,509*,
+CK791,Medicine  - Graduate Entry (GAMSAT required),#60*,#60*
 AC120,International Business,294,294
 AC137,Liberal Arts,271,270
 CT125,Computing and IT,242,242
@@ -180,8 +185,10 @@ CM004,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilg,#480,
 CM010,Education Studies,382,327
 CM020,Early Childhood Education,317,
 DB500,Computing,234,234
-DB501,Computing (Cloud Computing),178
+DB501,Computing (Cloud Computing),,178
 DB502,Computing (Data Analytics and Big Data),267,233
+DB503,Computing (Software Development),,
+DB504,Computing (Web and Mobile Technology),,
 DB510,Audio Production and Music Project Management,217,217
 DB512,Business Studies,243,210
 DB514,Business Studies (Law),239,225
@@ -255,12 +262,12 @@ DC215,General Nursing,456*,
 DC216,Mental Health Nursing,420,
 DC217,Intellectual Disability Nursing,382,
 DC218,Children`s and General Nursing (Integrated),521*,
-DC230,Economics,Politics and Law,431,
+DC230,Economics  Politics and Law,431,
 DC231,International Relations,398,
 DC232,Law and Society (BCL),469,
 DC235,Education and Training - Daytime and Flexible Deli,302,
 DC238,Social Sciences and Cultural Innovation,387,
-DC240,Marketing,Innovation and Technology,499,
+DC240,Marketing  Innovation and Technology,499,
 DC241,Digital Business and Innovation,509,
 DC291,Arts (Joint Honours) - Media Studies,350,
 DC292,Arts (Joint Honours) - Law,400,
@@ -287,11 +294,12 @@ GC200,Business,269,242
 GC201,Accounting and Finance,260,226
 GC230,Computing Science,300,289
 GC300,Business,264,264
-GC301,Accounting and Finance,251
+GC301,Accounting and Finance,,251
 GC302,Business - HRM,377,377
 GC307,Business (Marketing),289,270
 GC400,Business,250,228
 GC401,Accounting and Finance,242,242
+GC402,Business (HRM),,
 GC403,Law,245,242
 GC407,Business (Marketing),264,264
 GC430,Computing Science,251,251
@@ -300,6 +308,8 @@ GC462,Design Communication (portfolio),#300,
 GC489,Interior Architecture (portfolio),#288,#274
 GC494,Fashion Design (portfolio),#351,
 BY001,Business,210,210
+ID001,Accounting and Finance,,
+ID002,Business Studies,,
 AD101,First Year Art and Design (Common Entry portfolio),#554,
 AD102,Graphic Design and Moving Image Design (portfolio),#538,
 AD103,Textile and Surface Design and Jewellery and Objec,#505,
@@ -321,6 +331,7 @@ NC030,Early Childhood Education and Care,251,251
 RC001,Medicine - Undergraduate Entry (HPAT required),#741,#740*
 RC004,Physiotherapy,589*,589*
 RC005,Pharmacy,613*,613
+RC101,Medicine - Graduate Entry (GAMSAT required),,
 NM801,Montessori Education,262,
 NM802,Psychology,228,
 TU801,Sustainable Energy Engineering,235,
@@ -342,7 +353,7 @@ TU835,Planning and Environmental Management,330,
 TU836,Property Economics (Valuation Surveying),411,
 TU837,Quantity Surveying and Construction Economics,413,
 TU838,Sustainable Timber Technology,307,271
-TU851,Analytical Chemistry (Environmental,Forensic and,400,
+TU851,Analytical Chemistry (Environmental  Forensic and,400,
 TU852,Chemical Sciences with Medicinal Chemistry,477,
 TU854,Science (General Entry),510,
 TU855,Science with Nanotechnology,322,
@@ -403,7 +414,7 @@ TU953,Tourism and Digital Marketing,308,
 TU954,Event Management,326,
 TU955,Sports and Leisure Management,275,
 TU961,Commercial Modern Music (BIMM - assessment/auditio,#536,#536
-TU962,Drama (Performance,audition),#448,
+TU962,Drama (Performance  audition),#448,
 TU963,Music (audition),#364,
 TU965,International Business and Languages,357,
 TU967,Languages and International Tourism,298,
@@ -430,11 +441,11 @@ TR005,Philosophy,510,497
 TR006,Psychology,601*,590
 TR007,Clinical Speech and Language Studies,564*,
 TR009,Music Education,#496,#486
-TR015,Philosophy,Political Science,Economics and Socio,613*,613*
+TR015,Philosophy  Political Science  Economics and Socio,613*,613*
 TR016,Deaf Studies,389,
 TR018,Law and French,602*,602
 TR019,Law and German,577,567
-TR021,Classics,Ancient History and Archaeology,467,462
+TR021,Classics  Ancient History and Archaeology,467,462
 TR022,Early and Modern Irish,377,
 TR023,English Studies,546,541*
 TR024,European Studies,566,
@@ -446,7 +457,7 @@ TR033,Computer Science,566*,549
 TR034,Management Science and Information Systems Studies,625*,625*
 TR035,Theoretical Physics,590,589*
 TR038,Engineering with Management,589*,589*
-TR039,Computer Science,Linguistics and a Language,443,
+TR039,Computer Science  Linguistics and a Language,443,
 TR040,Middle Eastern and European Languages and Cultures,520,499
 TR041,Religion,417,
 TR042,Film,531,522
@@ -464,7 +475,7 @@ TR063,Physical Sciences,554,543
 TR064,Environmental Science and Engineering,555,
 TR072,Pharmacy,613*,613*
 TR080,Global Business,613*,
-TR081,Business,Economic and Social Studies (BESS),577,567*
+TR081,Business  Economic and Social Studies (BESS),577,567*
 TR084,Social Studies (Social Work),497,487*
 TR085,Business Studies and French,564,
 TR086,Business Studies and German,530,
@@ -489,13 +500,16 @@ DN250,Agricultural Science (options),454,444
 DN261,Food Science,531,
 DN262,Human Nutrition,566,
 DN300,Veterinary Medicine - Undergraduate Entry,#601*,
+DN301,Veterinary Medicine - Graduate Entry (GAMSAT requi,,
 DN310,Veterinary Nursing,521,509
 DN400,Medicine - Undergraduate Entry (HPAT required),#743*,
+DN401,Medicine - Graduate Entry (GAMSAT required),#61*,
 DN410,Radiography,566*,566*
+DN411,Radiography - Graduate Entry,#,
 DN420,Physiotherapy,601*,601*
 DN425,Health and Performance Science,544,543
 DN430,Sport and Exercise Management,484,476
-DN440,Biomedical,Health and Life Sciences,613*,613*
+DN440,Biomedical  Health and Life Sciences,613*,613*
 DN450,General Nursing,462*,
 DN451,Children`s and General Nursing (Integrated),533,
 DN452,Midwifery,510,509*
@@ -539,6 +553,7 @@ DK880,Health and Physical Activity,301,
 DK882,Agriculture (Award options),342,
 DK883,Science (Award options),373,368
 DK884,Sustainable Agriculture,348,
+DK885,Agri-Food Production,,
 DK886,Biopharmaceutical Science,379,
 DK887,Environmental Science,377,
 GA181,Accounting,303,
@@ -552,7 +567,7 @@ GA281,Film and Documentary,310,301
 GA282,Heritage Studies,252,
 GA283,Contemporary Art (portfolio),#790,
 GA284,Design,331,
-GA285,Education (Art,Design and Graphics),406,
+GA285,Education (Art  Design and Graphics),406,
 GA380,International Hotel Management,218,
 GA381,International Tourism Management,252,
 GA382,Culinary and Gastronomic Science,235,
@@ -587,10 +602,12 @@ GA887,History and Geography,201,
 GA889,Applied Social Care,265,
 GA890,Early Childhood Education and Care,281,227
 GA891,Geography and Outdoor Education,261,
+GA892,Community Development and Youth Work (Level 8),,
 GA980,Education (Design Graphics and Construction),410,
 GA981,Furniture Design and Manufacture,346,
 GA982,Furniture Making and Architectural Woodworking,360,
-GA984,Furniture Design,Making and Technology - Common E,486,467
+GA983,Furniture and Digital Manufacturing,,
+GA984,Furniture Design  Making and Technology - Common E,486,467
 GY101,Arts (Joint-Honours),327,326
 GY104,BSc (Psychology),564,555
 GY105,Arts (History),357,
@@ -599,7 +616,7 @@ GY110,Arts (Children and Youth Studies - options),387,
 GY111,Arts (English and Creative Writing),421,420
 GY113,Arts with Human Rights,413,
 GY115,Arts with Performing Arts Studies,300,
-GY118,Arts (Drama,Theatre and Performance Studies),453,430
+GY118,Arts (Drama  Theatre and Performance Studies),453,430
 GY119,Arts (Journalism),484,473
 GY122,Na Dána (Cumarsáid agus Gaeilge),410,
 GY123,Applied Social Sciences,419,
@@ -608,7 +625,7 @@ GY127,Arts (Film and Digital Media),430,421
 GY128,Arts (Global Languages),346,
 GY129,Arts (Global Experience),465,
 GY130,Arts (Music),462,
-GY132,Government (Politics,Economics and Law),465,451
+GY132,Government (Politics  Economics and Law),465,451
 GY133,Education (Computer Science and Mathematical Studi,454,
 GY134,Geography and Geosystems,425,
 GY135,Arts (Global Media),442,
@@ -625,7 +642,7 @@ GY250,Law and Business,510,
 GY251,Law (BCL),542,
 GY252,Law (BCL) and Human Rights,565,
 GY253,Law and Taxation,506,
-GY254,Law (BCL),Criminology and Criminal Justice,548,
+GY254,Law (BCL)  Criminology and Criminal Justice,548,
 GY261,Business Studies in International Hotel Management,#503,
 GY262,Commerce in International Hotel Management (interv,#709,
 GY301,Science,489,488
@@ -650,7 +667,7 @@ GY408,Biomedical Engineering,554,
 GY410,Project and Construction Management,431,
 GY413,Energy Systems Engineering,509,
 GY414,Electrical and Electronic Engineering,433,
-GY501,Medicine (five year/six year course,HPAT required,#737*,#737*
+GY501,Medicine (five year/six year course  HPAT required,#737*,#737*
 GY502,Occupational Therapy,601,
 GY503,Speech and Language Therapy,578,
 GY504,Podiatric Medicine,531,526
@@ -676,7 +693,7 @@ LY828,Agriculture - Common Entry,308,300
 LY908,General Nursing,429*,
 LY918,Psychiatric Nursing,367*,
 LY928,Intellectual Disability Nursing,357,
-LY968,Early Childhood Care,Health and Education,288,
+LY968,Early Childhood Care  Health and Education,288,
 LY978,Health and Social Care - Common Entry,279,
 MI001,Contemporary and Applied Theatre Studies,209,
 MI002,Arts,280,
@@ -685,18 +702,18 @@ MI005,Education - Primary Teaching,522,
 MI006,Education - Primary Teaching - Gaeltacht Applicant,#485,
 MI007,Early Childhood Care and Education,409,
 MI008,Education and Psychology - Primary Teaching,590,
-MI009,Education,Business Studies and Accounting,434,
-MI010,Education,Business Studies and Religious Studies,370,
-MI011,Education,Gaeilge and Religious Studies,407,
-MI012,Education,Gaeilge and Business Studies,387,
-MI013,Education,Mathematics and Gaeilge,509,
-MI014,Education,Mathematics and Business Studies,476,
+MI009,Education  Business Studies and Accounting,434,
+MI010,Education  Business Studies and Religious Studies,370,
+MI011,Education  Gaeilge and Religious Studies,407,
+MI012,Education  Gaeilge and Business Studies,387,
+MI013,Education  Mathematics and Gaeilge,509,
+MI014,Education  Mathematics and Business Studies,476,
 CI110,Counselling and Psychotherapy,292,
 CI111,Counselling and Psychotherapy with Addiction Studi,290,
 CI112,Counselling and Psychotherapy with Youth Studies,325,
-LC110,Art and Design (Common Entry,portfolio),#794,
+LC110,Art and Design (Common Entry  portfolio),#794,
 LC114,Fashion and Textiles for Product and Costume (port,#914,
-LC115,Art and Design Teacher Education (LIT and UL,port,#993,
+LC115,Art and Design Teacher Education (LIT and UL  port,#993,
 LC220,Digital Marketing,263,
 LC223,Law and Taxation,331,
 LC224,Accounting and Finance,300,
@@ -773,6 +790,7 @@ LM096,Science with Teacher Ed (Physical Sciences with Ch,454,
 LM097,Mathematics and Computer Science with concurrent T,465,
 LM099,Architecture,520,
 LM100,Physiotherapy,613*,
+LM101,Medicine  - Graduate Entry (GAMSAT required),#57*,
 LM102,Psychology,534,
 LM103,Paramedic Studies (Full B/Provisional C1 Drivers L,#429,
 LM105,Exercise and Health Fitness Management,441,
@@ -789,12 +807,16 @@ LM152,Mental Health Nursing,478,466
 LM154,Intellectual Disability Nursing,462,443
 LM156,Midwifery,521*,508
 MU001,Theology and Arts,294,294
+MU002,Theology,,
 MH001,Education - Primary Teaching (Froebel),564,
+MH002,Education - Primary Teaching - Gaeltacht Applicant,,
 MH003,Early Childhood - Teaching and Learning (full-time,381,
 MH101,Arts,338,336
+MH103,Music,#,
 MH106,Psychology - 3 years,554,
 MH107,Social Science,390,
 MH109,Media Studies,324,
+MH116,Community and Youth Work (Full-Time),#,
 MH201,Science,401,400
 MH202,Biotechnology,490,489
 MH203,Biological and Geographical Sciences,451,
@@ -819,10 +841,13 @@ MH502,Law (options),465,
 MH601,Computer Science through Arts (options),381,
 MH602,Computer Science through Science (options),400,
 MH603,Computational Thinking,520,
-AS001,Education,Home Economics and Biology - with concu,542,533
-AS002,Education,Home Economics and Religious Ed - with,464,452*
-AS003,Education,Home Economics and Irish - with concurr,463*,457
-AS051,Nutrition,Food and Business Management,378,347
+MH801,Early Childhood - Teaching and Learning (part-time,AQA,AQA
+MH802,Community and Youth Work (part-time  in service),,#
+MH803,Local Studies/Community Studies (part-time  evenin,,#
+AS001,Education  Home Economics and Biology - with concu,542,533
+AS002,Education  Home Economics and Religious Ed - with,464,452*
+AS003,Education  Home Economics and Irish - with concurr,463*,457
+AS051,Nutrition  Food and Business Management,378,347
 AS054,Home Economics,440*,419*
 AS110,General Nursing,440*,432
 AS130,Intellectual Disability Nursing,387,358
@@ -852,6 +877,7 @@ SG344,Mechanical Engineering,412,
 SG346,Construction Project Management and Applied Techno,313,
 SG347,Architecture,403,
 SG348,Interior Architecture and Design,359,
+SG349,Electronics and Self Driving Technologies,,
 SG350,Robotics and Automation,384,
 SG442,Occupational Safety and Health,307,
 SG443,Human Nutrition,376,
@@ -861,13 +887,14 @@ SG447,Health Science and Physical Activity,326,
 SG448,Forensic Investigation and Analysis,308,
 SG449,Medical Biotechnology,315,
 SG450,Environmental Science with Ecology (Level 8),310,
-TL801,Animation,Visual Effects and Motion Design (Level,#718,
-TL802,TV,Radio and New Media (Level 8),322,
+TL801,Animation  Visual Effects and Motion Design (Level,#718,
+TL802,TV  Radio and New Media (Level 8),322,
 TL810,Computing with Software Development,308,
 TL811,Computing with Games Development,322,
 TL815,Computing (Degree Award options),307,
 TL823,Event Management (3 year programme),293,
 TL831,Business Studies (Major Specialism in: Acctng or M,306,
+TL842,Construction Management,,
 TL844,Agricultural Engineering,301,
 TL845,Civil Engineering,361,
 TL847,Manufacturing Engineering,305,
@@ -881,6 +908,7 @@ TL873,Coaching and Sports Performance,308,
 TL874,Inclusive Sport and Physical Activity,341,
 TL880,Early Childhood Care and Education,309,
 TL881,Social Care,301,
+TL889,Counselling with Addiction - Mature applicants onl,,
 TL890,General Nursing and Mature Applicants,463,
 TL891,Mental Health Nursing and Mature Applicants,440,419
 WD001,Applied Computing (options),270,261
@@ -919,4 +947,4 @@ WD211,Creative Computing,270,
 WD212,Recreation and Sport Management,262,
 WD230,Mechanical and Manufacturing Engineering,230,230
 WD231,Early Childhood Care and Education,266,
-WD232,Business Information Systems,261,261,
+WD232,Business Information Systems,261,261
