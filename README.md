@@ -71,9 +71,14 @@ These had accumalated after a couple of weeks I decided to delete some. Unfortun
 
 **Data Analysis**
 - Using the descibe function we analysed mean,min and max of points required for courses during the three years for Round 1 and Round 2.
-- I then looked up soem information behing the courses which included GAMASAT and entrance exams. This points were artificially high and low due to other factor. Not just based on leaving cert points.
+- I then looked up some information behing the courses which included GAMASAT and entrance exams. This points were artificially high and low due to other factor. Not just based on leaving cert points.
 - Looking further into this we edited the dataset further to only include courses from 50-630 points. These would be the majority of courses that CAO points alone are required for. 
-- 
+- Using plotly plots and bar plots due to the fact is is categorical data we looked at some of the top courses in this points range.
+- I looked at which colleges the top points were required in. Majority of these courses required additional portfolios or entrance exams also.
+- I then looked at the amount of college courses per college  and displayed this on plots and looked further into the colleges that only offered 1 course.
+- Finally looked at the points difference between R1 in 2021 and 2020 respectively. There were some big increases and decreased in points in some courses.
+
+ 
 
 
 

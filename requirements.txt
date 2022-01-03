@@ -1,21 +1,10 @@
 import requests as rq
-
-# Regular expressions.
 import re
-
-# Dates and times.
 import datetime as dt
-
-# Data frames.
 import pandas as pd
-
-# For downloading.
 import urllib.request as urlrq
-
-#for plotting
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 import plotly
 import plotly.express as px
 import plotly.graph_objs as go

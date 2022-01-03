@@ -1,0 +1,34 @@
+AC	American College Dublind
+AL	Athlone Institute of Technologyd
+BY	IBAT College Dublind
+CM	Marino Institute of Educationd
+PC	Carlow Colleged
+CT	CCT College Dublind
+CR	Cork Institute of Technologyd
+DB	Dublin Business Schoold
+DC	Dublin City Universityd
+DK	Dundalk Institute of Technologyd
+DL	Dun Laoghaire Institute of Art, Design & Technology
+GA	Galway-Mayo Institute of Technologyd
+GC	Griffith College Dublin, Cork & Limerickd
+ID	ICD Business School, Dublind
+CW	Institute of Technology Carlow
+SG	Institute of Technology Sligo
+TU	TU Dublin
+TL	Institute of Technology Tralee
+CI	Irish College of Humanities & Applied Sciences
+LY	Letterkenny Institute of Technology
+LC	Limerick Institute of Technology
+MI	Mary Immaculate College of Education
+AD	National College of Art and Design
+NC	National College of Ireland(NCI)
+GY	Nat. Univ. Of Ireland, Galway
+MH	Maynooth University
+MU	Pontifical University, Maynooth
+RC	RCSI University of Medicine & Health Sciences
+AS	St. Angela`s College
+TR	Trinity College Dublin
+CK	University College Cork NUI
+DN	University College Dublin NUI
+LM	University of Limerick
+WD	Waterford Institute of Technology
