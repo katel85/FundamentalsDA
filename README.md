@@ -1,11 +1,50 @@
 # Fundamentals Data Analytics Project Dec 2021:
 
-This repositiory contains two notebooks called CAO and Pyplot. They are jupyter notebooks that have been constructed to attain a better understaing of the fundamentals of data analytics.
+**Student No:** G00048625
 
-The first notebook in this repositiry is the pyplot notebook. It is written using the python programming language. Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.  Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed. One of these incorporated packes is Matplotlib
+**Module:** Programming for Data Analysis 52465
+
+# Applications Used with this Jupyter Notebook:
+- Anaconda with Python version 3.8.8.
+- Install the latest version of git on your machine.
+- CMDER
+- VS Code
+
+# Requirements to run the notebook:
+
+Requirements to run these notebook's are in the requirements.txt file.
+
+# How to run this Jupyter Notebook:
+
+- Go to the repository in Github [FundamentalsDA](https://github.com/katel85/FundamentalsDA) 
+- Click the green 'code' button and copy the link.
+- Open CMDER and type in git clone and paste the copied link from github.
+- Once the link has been cloned to your machine correctly you will be able to open the file by typing jupyter lab in the command line.
+- To run the entire notebook we must go to the Kernal tab and select "Restart Kernal and Run All "
+- [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/katel85/FundamentalsDA/tree/main/)
 
 
-**CAO Final Notebook:**
+This repositiory contains two notebooks called **CAO Final** and **Pyplot**. They are jupyter notebooks that have been constructed to attain a better understaing of the fundamentals of data analytics.
+
+
+# Pyplot Notebook
+
+
+The first notebook in this repositiry is the pyplot notebook. It is written using the python programming language. Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.  Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed. One of these incorporated packes is Matplotlib.
+
+We specifically are looking at the Matplotlib submodule pyplot. This notebook has been divided into two sections.
+
+1) The  first section of the notebook looks at the overview of matplotlib. What the module can do and the history behind it. We looked at the different interfaces that can be used in the matplotlib module and how code is written different depending on the interface and amount of control you may need over the plots produced. This section looked at important pyplot commands used routinely when using this submodule. This section also contains some very basic coding for beginner plots in matplotlib.pyplot and also an example of the plplot versus object orientated interface coding.
+
+2) The second part of this notebook contains three plot types that I find interesting. I have used plots that I have encountered frequently since starting this course and three plots I felt I would gain the most from researching. These are:
+
+- The scatter plot
+- The histogram plot
+- The line plot
+
+- For all three of these plot types I have looked at the basic basic plotting techniques as well as looked into what scenarios they should be used. I have reviewed the matplotlib API extensively however I think I would probably need a few years to go through it properly. I found some invaluable tutorial's on YouTube as well as Github which has helped me greatly in this notebook. One big take home point is that in order to display data correctly and accurately you must be aware of the correct plot type to use. This can be difficult to figure out sometimes as in should I use a histogram/barplot. I think I will use this notebook as a resource in the future.  
+
+# CAO Final Notebook:**
 
 - The beginning of the notebook we set the current date and time and set it as a now string to use during the importation of the CAO points.
 
